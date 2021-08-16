@@ -1,0 +1,23 @@
+{
+  "name": "servidor-procesamiento",
+  "version": "1.0.0",
+  "description": "Demostrara como es el uso de un servidor nodejs para el procesamiento de imágenes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dabizu/servidor-procesamiento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dabizu/servidor-procesamiento/issues"
+  },
+  "homepage": "https://github.com/Dabizu/servidor-procesamiento#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
